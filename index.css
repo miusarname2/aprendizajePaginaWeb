@@ -1,0 +1,20 @@
+body{
+    color: rgb(0, 0, 0);
+    background-color: blueviolet;
+}
+#seccion1{
+    font-size: 60px;
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/12004258/pexels-photo-12004258.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size:cover;
+
+}
+#seccion2{
+    display: grid;
+    grid-template-columns: auto auto ;
+
+}
+.proyecto img{
+    width: 50%;
+}
+
